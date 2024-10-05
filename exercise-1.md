@@ -15,6 +15,6 @@ Prepare the pull requests, but don't merge them yet.
 5. Please reword "just 3 files" to "just three files".
 6. Please change the background colour to green.
 7. Add a CSS rule to indent the two lists, using `padding-left: 3em`.
-8. Instead of calling it "tiny web page", let's instead say "small web page".
+8. Instead of calling it "tiny web page", let's instead say "small web page" (only in `index.html`; don't worry about the directory / repository names).
 9. Wrap everything inside the body inside a `<div>`. Make sure to indent the file nicely.
 10. Please fix the spelling mistake: "in the first plaice" should say "in the first place".

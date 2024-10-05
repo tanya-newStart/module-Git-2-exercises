@@ -12,8 +12,12 @@ Let's then reset `main` to as it was before, and do it all again, but this time,
 
 - Does each requirement make sense? Do we understood what we're being asked to do? Do we need any more information?
 
+- Some requirements are very specific; others, less so.
+
 - Do all the requirements _together_ make sense?
 
-- Can we drop any of the requirements entirely?
+- Getting a feel before we start for what the work might look like.
+
+- Can we drop any of the requirements entirely? What is each requirement _for_?
 
 - Can we group some of the requirements into a small number of PRs?
